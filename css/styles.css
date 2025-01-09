@@ -12,6 +12,10 @@ body {
   color: black;
 }
 
+#nav-list a {
+  text-align: center;
+}
+
 .menu-tile{
   height: 800px;
   width: 100%;
